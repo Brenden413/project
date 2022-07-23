@@ -1,12 +1,17 @@
-# Project Name
+# Ai and Machine learning
 
- Add short description of project here > 
+ My Ai program will detect police cars from normal cars the purpose is so
+ drivers on the road could be advised to slow down.
 
-![add image descrition here](direct image link here)
+
+When there's input of an image it detects whether i could be a police car or normal car and
+outputs the result with a confidence score.
+(![Screenshot 2022-07-22 162337](https://user-images.githubusercontent.com/109747931/180547242-60ec0c2b-4816-409d-99e4-5774f7e3966d.png))
 
 ## The Algorithm
 
-Add an explanation of the algorithm and how it works. Make sure to include details about how the code works, what it depends on, and any other relevant info. Add images or other descriptions for your project here. 
+My program has a trained model on what a police car should look like including undercover cars, and what normal could would look like.
+Add images or other descriptions for your project here. 
 
 ## Running this project
 
