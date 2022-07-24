@@ -22,4 +22,4 @@ and it take the input image and outputs the confidence rate of whether its a nor
 3. input that into the image.open
 4. make sure the classes are correctly stated in order of the trained model
 
-[My Ai and machine learning project demonstrating Ai using image classification to tell the difference between two objects](https://youtu.be/qaWtx4Fs6hs)
+[My Ai and machine learning project demonstrating Ai using image classification to tell the difference between two objects] https://youtu.be/qaWtx4Fs6hs
